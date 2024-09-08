@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @fortgil
-- 👀 I’m interested in ...web development
-- 🌱 I’m currently learning ...iformation technology
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+## Hi, I'm Drick! 👋
+- 🌱 I’m currently learning Git and GitHub.
+- 🎓 I recently finished high school and plan to attend college at RCMRD.
+- 💻 I’m working on my fashion collection website.
+- 🏀 I love basketball and my favorite team is the Lakers.
+- 📚 I'm exploring the Quran and studying Arabic.
 <!---
-fortgil/fortgil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+drick/drick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
